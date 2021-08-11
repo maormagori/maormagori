@@ -3,7 +3,7 @@ My name is Maor Magori.
 I'm 21 years old, and I'm from Israel.
 I'm a Software Developer with a passion for learning new technologies.
 
-💼 I am currently working as a System engineer in the IDF.
+💼 I am currently working as a System engineer at the IDF.
 
 📖 I'm studying Computer Science at the Israeli Open University.
 
