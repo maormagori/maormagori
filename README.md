@@ -28,5 +28,3 @@ I'm a Software Developer with a passion for learning new technologies.
 
 # 📭 Feel free to contact me
 If you have a job offer or an idea you'd like to make a reality, feel free to send a message or an email!
-
-Test Branch
