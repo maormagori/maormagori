@@ -3,18 +3,18 @@ My name is Maor Magori.
 I'm 22 years old, and I'm from Israel.
 I'm a Software Developer with a passion for learning new technologies.
 
-💼 I am currently working as a System engineer at the IDF.
+💼 I am currently working as a Software Engineer at [Forter](https://github.com/forter).
 
 📖 I'm studying Computer Science at the Israeli Open University.
 
 📍 I'm located in Isreal and speak fluent Hebrew and English ☺️
 
 ### 🖥️ My field of expertise includes:
-- Javascript and NodeJS with an emphasis on creating helpful REST APIs and Saas products. (2.5 years)
-- Express - A server-side framework (2.5 years)
-- JAVA and OOP programming. (4 years)
-- ReactJS for the Front-end. (1 year)
-- MySQL and SQL (1 year)
+- Javascript and NodeJS with an emphasis on creating helpful REST APIs and Saas products.
+- Express - A server-side framework.
+- JAVA and OOP programming. 
+- ReactJS for the Front-end. 
+- MySQL and SQL.
 
 ### 📚 Noticeable libraries and APIs I had experience working with:
 - OpenCV for Computer Vision and image manipulation.
@@ -22,7 +22,7 @@ I'm a Software Developer with a passion for learning new technologies.
 - Youtube v3 API.
 
 ### 🧩 Technologies I used to work with:
-- Android development (2016 - 2019)
+- Android development
 - C# and WPF Application (Freelancing)
 
 
