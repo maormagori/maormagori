@@ -5,8 +5,6 @@ I'm a Software Developer with a passion for learning new technologies.
 
 💼 I am currently working as a Software Engineer at [Forter](https://github.com/forter).
 
-📖 I'm studying Computer Science at the Israeli Open University.
-
 📍 I'm located in Isreal and speak fluent Hebrew and English ☺️
 
 ### 🖥️ My field of expertise includes:
