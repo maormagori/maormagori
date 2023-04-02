@@ -1,6 +1,6 @@
 ## Hello 👋! 
 My name is Maor Magori.
-I'm 22 years old, and I'm from Israel.
+I'm 23 years old, and I'm from Israel.
 I'm a Software Developer with a passion for learning new technologies.
 
 💼 I am currently working as a Software Engineer at [Forter](https://github.com/forter).
